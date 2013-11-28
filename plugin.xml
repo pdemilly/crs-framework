@@ -1,0 +1,9 @@
+<plugin name='crs-framework' version='0.1' grailsVersion='2.3 &gt; *'>
+  <author>Your name</author>
+  <title>Crs Framework Plugin</title>
+  <description>Brief summary/description of the plugin.
+</description>
+  <documentation>http://grails.org/plugin/crs-framework</documentation>
+  <type>CrsFrameworkGrailsPlugin</type>
+  <resources />
+</plugin>
