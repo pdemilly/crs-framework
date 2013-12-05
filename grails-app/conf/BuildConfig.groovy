@@ -39,17 +39,17 @@ grails.project.dependency.resolution = {
               ":rest-client-builder:1.0.3") {
             export = false
         }
-	runtime ":crs-core-domain:0.8"
+	runtime ":crs-core-domain:0.8.1"
 	runtime ":crs-ui:0.8"
 	runtime ":crs-security:0.8"
-	runtime ":crs-calendar:0.8"
-	runtime ":crs-doc-mgmt:0.8"
-	runtime ":crs-pdf-form:0.8"
-	runtime ":crs-blog:0.8"
+	// runtime ":crs-calendar:0.8"
+	// runtime ":crs-doc-mgmt:0.8"
+	// runtime ":crs-pdf-form:0.8"
+	// runtime ":crs-blog:0.8"
 	runtime ":crs-email:0.8"
-	runtime ":crs-task:0.8"
-	runtime ":crs-repo-local-filesystem:0.8"
-	runtime ":crs-issue-tracking:0.8"
+	// runtime ":crs-task:0.8"
+	// runtime ":crs-repo-local-filesystem:0.8"
+	// runtime ":crs-issue-tracking:0.8"
     }
 }
 
